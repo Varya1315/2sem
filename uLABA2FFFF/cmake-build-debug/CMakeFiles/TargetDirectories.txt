@@ -1,0 +1,3 @@
+C:/Users/varvara/CLionProjects/uLABA2FFFF/cmake-build-debug/CMakeFiles/uLABA2FFFF.dir
+C:/Users/varvara/CLionProjects/uLABA2FFFF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/varvara/CLionProjects/uLABA2FFFF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
