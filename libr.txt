@@ -1,0 +1,29 @@
+[1] Is it a dish with fish?
+[2] Is it a round-shaped dish ?
+[4] Is this dish typically served cold?
+[8] Sushi
+[9] Does this dish  easy to prepare?
+[18] cutlet of fish
+[19] Is this dish known for being healthy?
+[38] Hamburgers
+[5] Is it a rectangle shape dish ?
+[10] fish fingers
+[11] fresh-soup
+[3] Is this a raw dish?
+[6] Is this a vegetable?
+[12] Does this dish originate from Italy?
+[24] Pizza
+[13] Cheese Sandwich
+[7] Is this a baked dish?
+[14] Is this a type of dessert?
+[28] Baked apples
+[29] Is this a type of seafood?
+[59] Lobster
+[15] Is this a type of drink?
+[30] Coffee
+[61] Is this a type of cheese?
+[122] Mozzarella
+[31] Does this dish typically include eggs?
+[62] Omelette
+[63] Is this dish commonly found in Mexican cuisine?
+[126] Tacos
